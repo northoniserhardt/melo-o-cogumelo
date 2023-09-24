@@ -2,7 +2,7 @@
 
 ![Mush the Mushroom](https://github.com/northoniserhardt/mush-the-mushroom/assets/32493494/ae505b57-5f2a-4b6f-bd13-baf78ce0b0e6)
 
-Mush the Mushroom is a base project developed in Laravel and Livewire that allows users to customize an adorable character named Mush, who is a cute mushroom. Users can choose different elements to personalize Mush, including the head, glasses, and the donut he holds.
+Mush the Mushroom is a character customization base project developed in Laravel and Livewire that allows users to customize an adorable character named Mush, who is a cute mushroom. Users can choose different elements to personalize Mush, including the head, glasses, and the donut he holds.
 
 ## Prerequisites
 
@@ -53,7 +53,7 @@ The next steps for the Mush the Mushroom project include expanding it to become 
 
 
 
-Mush the Mushroom é um projeto base desenvolvido em Laravel e Livewire que permite aos usuários customizar um personagem adorável chamado Mush, que é um cogumelo fofo. Os usuários podem escolher diferentes elementos para personalizar o Mush, incluindo a cabeça, óculos e o donut que ele segura.
+Mush the Mushroom é um projeto base de customização de personagens desenvolvido em Laravel e Livewire que permite aos usuários customizar um personagem adorável chamado Mush, que é um cogumelo fofo. Os usuários podem escolher diferentes elementos para personalizar o Mush, incluindo a cabeça, óculos e o donut que ele segura.
 
 ## Pré-requisitos
 
