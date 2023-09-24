@@ -13,8 +13,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-Route::view('/character-customization', 'customize/character');
+Route::view('/', 'customize/character');
 
