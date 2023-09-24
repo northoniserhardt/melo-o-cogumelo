@@ -1,3 +1,51 @@
+# Mush the Mushroom - Character Customizer
+
+![Mush the Mushroom](https://github.com/northoniserhardt/mush-the-mushroom/assets/32493494/ae505b57-5f2a-4b6f-bd13-baf78ce0b0e6)
+
+Mush the Mushroom is a project developed in Laravel and Livewire that allows users to customize an adorable character named Mush, who is a cute mushroom. Users can choose different elements to personalize Mush, including the head, glasses, and the donut he holds.
+
+## Prerequisites
+
+Before getting started with the project, make sure your environment meets the following prerequisites:
+
+- [PHP](https://www.php.net/) >= 8.1
+- [Composer](https://getcomposer.org/)
+
+## Installation
+
+Clone the project:
+- `cd mush-the-mushroom`
+
+Navigate to the project directory:
+- `cd mush-the-mushroom`
+
+Install PHP dependencies using Composer:
+- `composer install`
+
+Copy the `.env.example` file to `.env`:
+- `cp .env.example .env`
+
+Generate an application key:
+- `php artisan key:generate`
+
+Start the development server (if not using servers like Nginx or Apache):
+- `php artisan serve`
+
+Now, you can access Mush the Mushroom in your browser at http://localhost:8000 (default port 8000).
+
+## Usage
+
+1. On the homepage, you will see the character Mush.
+
+2. Click on the buttons or menus to customize Mush's head, glasses, and the donut he holds.
+
+3. The changes made will be reflected automatically in real-time on the Mush character.
+
+## Next Steps
+
+The next steps for the Mush the Mushroom project include expanding it to become a generic customizer that can accommodate any persona with any customizations. This project has already been designed with this goal in mind.
+
+---
 
 # Mush the Mushroom - Customizador de Personagens
 
