@@ -14,7 +14,7 @@ Before getting started with the project, make sure your environment meets the fo
 ## Installation
 
 Clone the project:
-- `cd mush-the-mushroom`
+- `git clone https://github.com/northoniserhardt/mush-the-mushroom.git`
 
 Navigate to the project directory:
 - `cd mush-the-mushroom`
